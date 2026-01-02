@@ -1,0 +1,254 @@
+[2025-12-25 16:55:27] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 16:55:27] [INFO] Checking 2 targets
+[2025-12-25 16:55:27] [INFO]   ✅ UP 8.8.8.8 - Latency: 21.9ms
+[2025-12-25 16:55:28] [INFO]   ✅ UP google.com - Latency: 23.4ms
+[2025-12-25 16:55:28] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 16:55:28] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 16:55:28] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 16:55:28] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:09:56] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:09:56] [INFO] Checking 2 targets
+[2025-12-25 17:09:56] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.1ms
+[2025-12-25 17:09:56] [INFO]   ✅ UP google.com - Latency: 23.8ms
+[2025-12-25 17:09:56] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:09:56] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:09:56] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:09:56] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:15:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:15:07] [INFO] Checking 2 targets
+[2025-12-25 17:15:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.7ms
+[2025-12-25 17:15:07] [INFO]   ✅ UP google.com - Latency: 23.6ms
+[2025-12-25 17:15:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:15:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:15:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:15:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:20:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:20:04] [INFO] Checking 2 targets
+[2025-12-25 17:20:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.5ms
+[2025-12-25 17:20:04] [INFO]   ✅ UP google.com - Latency: 24.5ms
+[2025-12-25 17:20:04] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:20:04] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:20:04] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:20:04] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:22:02] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:22:02] [INFO] Checking 2 targets
+[2025-12-25 17:22:02] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.8ms
+[2025-12-25 17:22:03] [INFO]   ✅ UP google.com - Latency: 30.0ms
+[2025-12-25 17:22:03] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:22:03] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:22:03] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:22:03] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:25:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:25:07] [INFO] Checking 2 targets
+[2025-12-25 17:25:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 21.6ms
+[2025-12-25 17:25:07] [INFO]   ✅ UP google.com - Latency: 23.3ms
+[2025-12-25 17:25:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:25:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:25:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:25:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:30:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:30:04] [INFO] Checking 2 targets
+[2025-12-25 17:30:05] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.2ms
+[2025-12-25 17:30:05] [INFO]   ✅ UP google.com - Latency: 22.8ms
+[2025-12-25 17:30:05] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:30:05] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:30:05] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:30:05] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:35:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:35:07] [INFO] Checking 2 targets
+[2025-12-25 17:35:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 75.3ms
+[2025-12-25 17:35:13] [ERROR]   ❌ DOWN google.com
+[2025-12-25 17:35:13] [ERROR] ALERT: google.com is DOWN (ping failed after 2 attempts)
+[2025-12-25 17:35:13] [ERROR] === STATUS: DEGRADED - Check alerts ===
+[2025-12-25 17:35:13] [INFO] Alerts saved to: /home/dawg/noc-practice/alerts/alerts-20251225.log
+[2025-12-25 17:35:13] [INFO] Summary: ✅ 8.8.8.8 ❌ google.com 
+[2025-12-25 17:35:13] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:35:13] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:40:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:40:04] [INFO] Checking 2 targets
+[2025-12-25 17:40:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.0ms
+[2025-12-25 17:40:07] [INFO]   ✅ UP google.com - Latency: 24.1ms
+[2025-12-25 17:40:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:40:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:40:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:40:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 17:45:09] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 17:45:09] [INFO] Checking 2 targets
+[2025-12-25 17:45:09] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.2ms
+[2025-12-25 17:45:09] [INFO]   ✅ UP google.com - Latency: 23.9ms
+[2025-12-25 17:45:09] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 17:45:09] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 17:45:09] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 17:45:09] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 20:40:01] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 20:40:01] [INFO] Checking 2 targets
+[2025-12-25 20:40:01] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.6ms
+[2025-12-25 20:40:01] [INFO]   ✅ UP google.com - Latency: 31.5ms
+[2025-12-25 20:40:01] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 20:40:01] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 20:40:01] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 20:40:01] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 20:41:54] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 20:41:54] [INFO] Checking 2 targets
+[2025-12-25 20:41:54] [INFO]   ✅ UP 8.8.8.8 - Latency: 25.6ms
+[2025-12-25 20:41:54] [INFO]   ✅ UP google.com - Latency: 24.2ms
+[2025-12-25 20:41:54] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 20:41:54] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 20:41:54] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 20:41:54] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 20:45:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 20:45:07] [INFO] Checking 2 targets
+[2025-12-25 20:45:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.8ms
+[2025-12-25 20:45:07] [INFO]   ✅ UP google.com - Latency: 23.2ms
+[2025-12-25 20:45:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 20:45:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 20:45:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 20:45:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 20:50:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 20:50:04] [INFO] Checking 2 targets
+[2025-12-25 20:50:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 28.2ms
+[2025-12-25 20:50:04] [INFO]   ✅ UP google.com - Latency: 26.9ms
+[2025-12-25 20:50:04] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 20:50:04] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 20:50:04] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 20:50:04] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 20:55:06] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 20:55:06] [INFO] Checking 2 targets
+[2025-12-25 20:55:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 28.7ms
+[2025-12-25 20:55:07] [INFO]   ✅ UP google.com - Latency: 23.2ms
+[2025-12-25 20:55:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 20:55:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 20:55:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 20:55:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:00:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:00:04] [INFO] Checking 2 targets
+[2025-12-25 21:00:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.5ms
+[2025-12-25 21:00:04] [INFO]   ✅ UP google.com - Latency: 25.5ms
+[2025-12-25 21:00:04] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:00:04] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:00:04] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:00:04] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:05:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:05:07] [INFO] Checking 2 targets
+[2025-12-25 21:05:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.2ms
+[2025-12-25 21:05:07] [INFO]   ✅ UP google.com - Latency: 25.1ms
+[2025-12-25 21:05:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:05:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:05:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:05:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:06:53] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:06:53] [INFO] Checking 2 targets
+[2025-12-25 21:06:53] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-25 21:06:53] [INFO]   ✅ UP google.com - Latency: 24.5ms
+[2025-12-25 21:06:53] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:06:53] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:06:53] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:06:53] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:10:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:10:04] [INFO] Checking 2 targets
+[2025-12-25 21:10:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.1ms
+[2025-12-25 21:10:04] [INFO]   ✅ UP google.com - Latency: 38.2ms
+[2025-12-25 21:10:04] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:10:04] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:10:04] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:10:04] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:15:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:15:07] [INFO] Checking 4 targets
+[2025-12-25 21:15:07] [INFO] IPs: 8.8.8.8 1.1.1.1
+[2025-12-25 21:15:07] [INFO] Domains: google.com cloudflare.com
+[2025-12-25 21:15:07] [INFO] --- NETWORK CONNECTIVITY ---
+[2025-12-25 21:15:07] [INFO]   ✅ NETWORK_UP: 8.8.8.8 - Latency: 22.0ms
+[2025-12-25 21:15:07] [INFO]   ✅ NETWORK_UP: 1.1.1.1 - Latency: 25.4ms
+[2025-12-25 21:15:07] [INFO] --- DNS RESOLUTION ---
+[2025-12-25 21:15:07] [INFO]   ✅ DNS_UP: google.com resolves correctly
+[2025-12-25 21:15:07] [INFO]   ✅ DNS_UP: cloudflare.com resolves correctly
+[2025-12-25 21:15:07] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:15:07] [INFO] Summary: ✅ 8.8.8.8 ✅ 1.1.1.1 ✅ google.com ✅ cloudflare.com 
+[2025-12-25 21:15:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:15:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:20:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:20:07] [INFO] Checking 4 targets
+[2025-12-25 21:20:07] [INFO] IPs: 8.8.8.8 1.1.1.1
+[2025-12-25 21:20:07] [INFO] Domains: google.com cloudflare.com
+[2025-12-25 21:20:07] [INFO] --- NETWORK CONNECTIVITY ---
+[2025-12-25 21:20:07] [INFO]   ✅ NETWORK_UP: 8.8.8.8 - Latency: 38.0ms
+[2025-12-25 21:20:08] [INFO]   ✅ NETWORK_UP: 1.1.1.1 - Latency: 42.4ms
+[2025-12-25 21:20:08] [INFO] --- DNS RESOLUTION ---
+[2025-12-25 21:20:08] [INFO]   ✅ DNS_UP: google.com resolves correctly
+[2025-12-25 21:20:08] [INFO]   ✅ DNS_UP: cloudflare.com resolves correctly
+[2025-12-25 21:20:08] [INFO] === STATUS: ALL SYSTEMS HEALTHY ===
+[2025-12-25 21:20:08] [INFO] Summary: ✅ 8.8.8.8 ✅ 1.1.1.1 ✅ google.com ✅ cloudflare.com 
+[2025-12-25 21:20:08] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:20:08] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:25:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:25:07] [INFO] Checking 2 targets
+[2025-12-25 21:25:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:25:07] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:25:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.3ms
+[2025-12-25 21:25:07] [INFO] Checking: google.com
+[2025-12-25 21:25:07] [INFO]   ✅ UP google.com - Latency: 29.4ms
+[2025-12-25 21:25:07] [INFO] === FINAL REPORT ===
+[2025-12-25 21:25:07] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:25:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:25:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:25:08] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:25:33] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:25:33] [INFO] Checking 2 targets
+[2025-12-25 21:25:33] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:25:33] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:25:33] [INFO]   ✅ UP 8.8.8.8 - Latency: 82.5ms
+[2025-12-25 21:25:33] [INFO] Checking: google.com
+[2025-12-25 21:25:33] [INFO]   ✅ UP google.com - Latency: 43.1ms
+[2025-12-25 21:25:33] [INFO] === FINAL REPORT ===
+[2025-12-25 21:25:33] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:25:33] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:25:33] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:25:33] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:27:02] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:27:02] [INFO] Checking 2 targets
+[2025-12-25 21:27:02] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:27:02] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:27:02] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.0ms
+[2025-12-25 21:27:02] [INFO] Checking: google.com
+[2025-12-25 21:27:02] [INFO]   ✅ UP google.com - Latency: 27.3ms
+[2025-12-25 21:27:02] [INFO] === FINAL REPORT ===
+[2025-12-25 21:27:02] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:27:02] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:27:02] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:27:02] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:29:08] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:29:08] [INFO] Checking 2 targets
+[2025-12-25 21:29:08] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:29:08] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:29:08] [INFO]   ✅ UP 8.8.8.8 - Latency: 52.5ms
+[2025-12-25 21:29:08] [INFO] Checking: google.com
+[2025-12-25 21:29:08] [INFO]   ✅ UP google.com - Latency: 22.9ms
+[2025-12-25 21:29:08] [INFO] === FINAL REPORT ===
+[2025-12-25 21:29:08] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:29:08] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:29:08] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:29:08] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:30:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:30:07] [INFO] Checking 2 targets
+[2025-12-25 21:30:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:30:07] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:30:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.3ms
+[2025-12-25 21:30:07] [INFO] Checking: google.com
+[2025-12-25 21:30:07] [INFO]   ✅ UP google.com - Latency: 38.5ms
+[2025-12-25 21:30:07] [INFO] === FINAL REPORT ===
+[2025-12-25 21:30:07] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:30:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:30:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:30:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-25 21:32:21] [INFO] === NOC MONITOR STARTED ===
+[2025-12-25 21:32:21] [INFO] Checking 2 targets
+[2025-12-25 21:32:21] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-25 21:32:21] [INFO] Checking: 8.8.8.8
+[2025-12-25 21:32:24] [INFO]   ✅ UP 8.8.8.8 - Latency: 39.4ms
+[2025-12-25 21:32:24] [INFO] Checking: google.com
+[2025-12-25 21:32:24] [INFO]   ✅ UP google.com - Latency: 24.1ms
+[2025-12-25 21:32:24] [INFO] === FINAL REPORT ===
+[2025-12-25 21:32:24] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-25 21:32:24] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-25 21:32:25] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251225.log
+[2025-12-25 21:32:25] [INFO] === MONITOR COMPLETE ===

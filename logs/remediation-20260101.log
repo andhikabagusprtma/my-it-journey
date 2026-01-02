@@ -1,0 +1,32 @@
+[2026-01-01 14:45:31] [INFO] ==============================
+[2026-01-01 14:45:31] [INFO] NOC AUTO-REMEDIATION v1.0
+[2026-01-01 14:45:31] [INFO] WSL2 Ubuntu - Thu Jan  1 14:45:31 WIB 2026
+[2026-01-01 14:45:31] [INFO] ==============================
+[2026-01-01 14:45:31] [INFO] === AUTO-REMEDIATION STARTED ===
+[2026-01-01 14:45:31] [INFO] Pre-check: Current network state
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             172.18.177.142/20 fe80::215:5dff:fe59:561e/64 
+[2026-01-01 14:45:32] [INFO] Testing gateway: 172.18.176.1
+[2026-01-01 14:45:35] [ERROR] ✗ Gateway unreachable
+[2026-01-01 14:45:35] [WARN] 🚨 Network issues detected - starting remediation
+[2026-01-01 14:45:35] [INFO] Executing: renew_dhcp_safe
+[2026-01-01 14:45:35] [ACTION] Attempting DHCP renewal...
+[2026-01-01 14:45:35] [ACTION] Releasing IP on eth0...
+[2026-01-01 14:45:52] [ACTION] IP released/renewed on eth0
+[2026-01-01 14:45:52] [INFO] ✓ renew_dhcp_safe completed
+[2026-01-01 14:45:57] [INFO] Testing gateway: 172.18.176.1
+[2026-01-01 14:45:57] [ERROR] ✗ Gateway unreachable
+[2026-01-01 14:45:57] [INFO] Executing: restart_interface_safe
+[2026-01-01 14:45:57] [ERROR] No interface found
+[2026-01-01 14:45:57] [ERROR] ✗ restart_interface_safe failed
+[2026-01-01 14:45:57] [INFO] Executing: fix_dns_safe
+[2026-01-01 14:45:57] [ACTION] Configuring DNS...
+[2026-01-01 14:45:57] [ACTION] DNS set to Google + Cloudflare + Quad9
+[2026-01-01 14:45:57] [INFO] ✓ fix_dns_safe completed
+[2026-01-01 14:46:02] [INFO] Testing gateway: 8.8.8.8
+[2026-01-01 14:46:02] [ERROR] ✗ Gateway unreachable
+[2026-01-01 14:46:02] [ERROR] ❌ ALL REMEDIATION STEPS FAILED
+[2026-01-01 14:46:02] [INFO] Manual intervention required
+[2026-01-01 14:46:02] [ERROR] ========== REMEDIATION: FAILED ==========
+[2026-01-01 14:46:02] [INFO] Log saved: /home/dawg/noc-practice/logs/remediation-20260101.log
+[2026-01-01 14:46:02] [INFO] ==============================

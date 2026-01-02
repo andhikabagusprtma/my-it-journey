@@ -1,0 +1,90 @@
+[2025-12-29 14:27:20] [INFO] ==============================
+[2025-12-29 14:27:20] [INFO] NOC AUTO-REMEDIATION v1.0
+[2025-12-29 14:27:20] [INFO] WSL2 Ubuntu - Mon Dec 29 14:27:20 WIB 2025
+[2025-12-29 14:27:20] [INFO] ==============================
+[2025-12-29 14:27:20] [INFO] === AUTO-REMEDIATION STARTED ===
+[2025-12-29 14:27:20] [INFO] Pre-check: Current network state
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             172.18.177.142/20 fe80::215:5dff:fee7:b434/64 
+[2025-12-29 14:27:20] [INFO] Testing gateway: 172.18.176.1
+[2025-12-29 14:27:23] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:27:23] [WARN] 🚨 Network issues detected - starting remediation
+[2025-12-29 14:27:23] [INFO] Executing: renew_dhcp_safe
+[2025-12-29 14:27:23] [ACTION] Attempting DHCP renewal...
+[2025-12-29 14:27:24] [ACTION] Releasing IP on eth0...
+[2025-12-29 14:27:45] [ACTION] IP released/renewed on eth0
+[2025-12-29 14:27:45] [INFO] ✓ renew_dhcp_safe completed
+[2025-12-29 14:27:50] [INFO] Testing gateway: 172.18.176.1
+[2025-12-29 14:27:50] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:27:50] [INFO] Executing: restart_interface_safe
+[2025-12-29 14:27:50] [ERROR] No interface found
+[2025-12-29 14:27:50] [ERROR] ✗ restart_interface_safe failed
+[2025-12-29 14:27:50] [INFO] Executing: fix_dns_safe
+[2025-12-29 14:27:50] [ACTION] Configuring DNS...
+[2025-12-29 14:27:50] [ACTION] DNS set to Google + Cloudflare + Quad9
+[2025-12-29 14:27:50] [INFO] ✓ fix_dns_safe completed
+[2025-12-29 14:27:55] [INFO] Testing gateway: 8.8.8.8
+[2025-12-29 14:27:55] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:27:55] [ERROR] ❌ ALL REMEDIATION STEPS FAILED
+[2025-12-29 14:27:55] [INFO] Manual intervention required
+[2025-12-29 14:27:55] [ERROR] ========== REMEDIATION: FAILED ==========
+[2025-12-29 14:27:55] [INFO] Log saved: /home/dawg/noc-practice/logs/remediation-20251229.log
+[2025-12-29 14:27:55] [INFO] ==============================
+[2025-12-29 14:32:36] [INFO] ==============================
+[2025-12-29 14:32:36] [INFO] NOC AUTO-REMEDIATION v1.0
+[2025-12-29 14:32:36] [INFO] WSL2 Ubuntu - Mon Dec 29 14:32:36 WIB 2025
+[2025-12-29 14:32:36] [INFO] ==============================
+[2025-12-29 14:32:36] [INFO] === AUTO-REMEDIATION STARTED ===
+[2025-12-29 14:32:36] [INFO] Pre-check: Current network state
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             fe80::215:5dff:fee7:b434/64 
+[2025-12-29 14:32:36] [INFO] Testing gateway: 8.8.8.8
+[2025-12-29 14:32:36] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:32:36] [WARN] 🚨 Network issues detected - starting remediation
+[2025-12-29 14:32:36] [INFO] Executing: renew_dhcp_safe
+[2025-12-29 14:32:36] [ACTION] Attempting DHCP renewal...
+[2025-12-29 14:32:36] [WARN] No DHCP method available
+[2025-12-29 14:32:36] [ERROR] ✗ renew_dhcp_safe failed
+[2025-12-29 14:32:36] [INFO] Executing: restart_interface_safe
+[2025-12-29 14:32:36] [ERROR] No interface found
+[2025-12-29 14:32:36] [ERROR] ✗ restart_interface_safe failed
+[2025-12-29 14:32:36] [INFO] Executing: fix_dns_safe
+[2025-12-29 14:32:36] [ACTION] Configuring DNS...
+[2025-12-29 14:32:36] [ACTION] DNS set to Google + Cloudflare + Quad9
+[2025-12-29 14:32:36] [INFO] ✓ fix_dns_safe completed
+[2025-12-29 14:32:41] [INFO] Testing gateway: 8.8.8.8
+[2025-12-29 14:32:41] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:32:41] [ERROR] ❌ ALL REMEDIATION STEPS FAILED
+[2025-12-29 14:32:41] [INFO] Manual intervention required
+[2025-12-29 14:32:41] [ERROR] ========== REMEDIATION: FAILED ==========
+[2025-12-29 14:32:41] [INFO] Log saved: /home/dawg/noc-practice/logs/remediation-20251229.log
+[2025-12-29 14:32:41] [INFO] ==============================
+[2025-12-29 14:34:34] [INFO] ==============================
+[2025-12-29 14:34:34] [INFO] NOC AUTO-REMEDIATION v1.0
+[2025-12-29 14:34:34] [INFO] WSL2 Ubuntu - Mon Dec 29 14:34:34 WIB 2025
+[2025-12-29 14:34:34] [INFO] ==============================
+[2025-12-29 14:34:34] [INFO] === AUTO-REMEDIATION STARTED ===
+[2025-12-29 14:34:34] [INFO] Pre-check: Current network state
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             fe80::215:5dff:fee7:b434/64 
+[2025-12-29 14:34:34] [INFO] Testing gateway: 8.8.8.8
+[2025-12-29 14:34:34] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:34:34] [WARN] 🚨 Network issues detected - starting remediation
+[2025-12-29 14:34:34] [INFO] Executing: renew_dhcp_safe
+[2025-12-29 14:34:34] [ACTION] Attempting DHCP renewal...
+[2025-12-29 14:34:34] [WARN] No DHCP method available
+[2025-12-29 14:34:34] [ERROR] ✗ renew_dhcp_safe failed
+[2025-12-29 14:34:34] [INFO] Executing: restart_interface_safe
+[2025-12-29 14:34:34] [ERROR] No interface found
+[2025-12-29 14:34:34] [ERROR] ✗ restart_interface_safe failed
+[2025-12-29 14:34:34] [INFO] Executing: fix_dns_safe
+[2025-12-29 14:34:34] [ACTION] Configuring DNS...
+[2025-12-29 14:34:34] [ACTION] DNS set to Google + Cloudflare + Quad9
+[2025-12-29 14:34:34] [INFO] ✓ fix_dns_safe completed
+[2025-12-29 14:34:40] [INFO] Testing gateway: 8.8.8.8
+[2025-12-29 14:34:40] [ERROR] ✗ Gateway unreachable
+[2025-12-29 14:34:40] [ERROR] ❌ ALL REMEDIATION STEPS FAILED
+[2025-12-29 14:34:40] [INFO] Manual intervention required
+[2025-12-29 14:34:40] [ERROR] ========== REMEDIATION: FAILED ==========
+[2025-12-29 14:34:40] [INFO] Log saved: /home/dawg/noc-practice/logs/remediation-20251229.log
+[2025-12-29 14:34:40] [INFO] ==============================

@@ -1,0 +1,1135 @@
+[2025-12-26 14:50:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 14:50:07] [INFO] Checking 2 targets
+[2025-12-26 14:50:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 14:50:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 14:50:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.5ms
+[2025-12-26 14:50:07] [INFO] Checking: google.com
+[2025-12-26 14:50:07] [INFO]   ✅ UP google.com - Latency: 23.5ms
+[2025-12-26 14:50:07] [INFO] === FINAL REPORT ===
+[2025-12-26 14:50:07] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 14:50:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 14:50:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 14:50:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 14:52:15] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 14:52:15] [INFO] Checking 2 targets
+[2025-12-26 14:52:15] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 14:52:15] [INFO] Checking: 8.8.8.8
+[2025-12-26 14:52:15] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.1ms
+[2025-12-26 14:52:15] [INFO] Checking: google.com
+[2025-12-26 14:52:15] [INFO]   ✅ UP google.com - Latency: 27.7ms
+[2025-12-26 14:52:15] [INFO] === FINAL REPORT ===
+[2025-12-26 14:52:15] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 14:52:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 14:52:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 14:52:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 14:53:35] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 14:53:35] [INFO] Checking 2 targets
+[2025-12-26 14:53:35] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 14:53:35] [INFO] Checking: 8.8.8.8
+[2025-12-26 14:53:35] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.9ms
+[2025-12-26 14:53:35] [INFO] Checking: google.com
+[2025-12-26 14:53:35] [INFO]   ✅ UP google.com - Latency: 24.6ms
+[2025-12-26 14:53:35] [INFO] === FINAL REPORT ===
+[2025-12-26 14:53:35] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 14:53:35] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 14:53:35] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 14:53:35] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 14:55:08] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 14:55:08] [INFO] Checking 2 targets
+[2025-12-26 14:55:08] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 14:55:08] [INFO] Checking: 8.8.8.8
+[2025-12-26 14:55:09] [INFO]   ✅ UP 8.8.8.8 - Latency: 74.3ms
+[2025-12-26 14:55:09] [INFO] Checking: google.com
+[2025-12-26 14:55:11] [INFO]   ✅ UP google.com - Latency: N/Ams
+[2025-12-26 14:55:11] [INFO] === FINAL REPORT ===
+[2025-12-26 14:55:11] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 14:55:11] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 14:55:11] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 14:55:11] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 14:55:12] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 14:55:12] [INFO] Checking 2 targets
+[2025-12-26 14:55:12] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 14:55:12] [INFO] Checking: 8.8.8.8
+[2025-12-26 14:55:12] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.9ms
+[2025-12-26 14:55:12] [INFO] Checking: google.com
+[2025-12-26 14:55:13] [INFO]   ✅ UP google.com - Latency: 46.0ms
+[2025-12-26 14:55:13] [INFO] === FINAL REPORT ===
+[2025-12-26 14:55:13] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 14:55:13] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 14:55:13] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 14:55:13] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:00:06] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:00:06] [INFO] Checking 2 targets
+[2025-12-26 15:00:06] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:00:06] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:00:06] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.6ms
+[2025-12-26 15:00:06] [INFO] Checking: google.com
+[2025-12-26 15:00:06] [INFO]   ✅ UP google.com - Latency: 26.1ms
+[2025-12-26 15:00:06] [INFO] === FINAL REPORT ===
+[2025-12-26 15:00:06] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:00:06] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:00:06] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:00:06] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:15:01] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:15:01] [INFO] Checking 2 targets
+[2025-12-26 15:15:01] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:15:01] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:15:01] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.2ms
+[2025-12-26 15:15:01] [INFO] Checking: google.com
+[2025-12-26 15:15:01] [INFO]   ✅ UP google.com - Latency: 23.3ms
+[2025-12-26 15:15:01] [INFO] === FINAL REPORT ===
+[2025-12-26 15:15:01] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:15:01] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:15:01] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:15:01] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:15:47] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:15:47] [INFO] Checking 2 targets
+[2025-12-26 15:15:47] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:15:47] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:15:47] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.1ms
+[2025-12-26 15:15:47] [INFO] Checking: google.com
+[2025-12-26 15:15:47] [INFO]   ✅ UP google.com - Latency: 26.7ms
+[2025-12-26 15:15:47] [INFO] === FINAL REPORT ===
+[2025-12-26 15:15:47] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:15:47] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:15:47] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:15:47] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:16:44] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:16:44] [INFO] Checking 2 targets
+[2025-12-26 15:16:44] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:16:44] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:16:45] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-26 15:16:45] [INFO] Checking: google.com
+[2025-12-26 15:16:45] [INFO]   ✅ UP google.com - Latency: 23.1ms
+[2025-12-26 15:16:45] [INFO] === FINAL REPORT ===
+[2025-12-26 15:16:45] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:16:45] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:16:45] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:16:45] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:20:02] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:20:02] [INFO] Checking 2 targets
+[2025-12-26 15:20:02] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:20:02] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:20:02] [INFO]   ✅ UP 8.8.8.8 - Latency: 21.4ms
+[2025-12-26 15:20:02] [INFO] Checking: google.com
+[2025-12-26 15:20:02] [INFO]   ✅ UP google.com - Latency: 32.1ms
+[2025-12-26 15:20:02] [INFO] === FINAL REPORT ===
+[2025-12-26 15:20:02] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:20:02] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:20:02] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:20:02] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:21:36] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:21:36] [INFO] Checking 2 targets
+[2025-12-26 15:21:36] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:21:36] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:21:36] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.0ms
+[2025-12-26 15:21:36] [INFO] Checking: google.com
+[2025-12-26 15:21:37] [INFO]   ✅ UP google.com - Latency: 24.3ms
+[2025-12-26 15:21:37] [INFO] === FINAL REPORT ===
+[2025-12-26 15:21:37] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:21:37] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:21:37] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:21:37] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:25:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:25:04] [INFO] Checking 2 targets
+[2025-12-26 15:25:04] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:25:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:25:05] [INFO]   ✅ UP 8.8.8.8 - Latency: 21.8ms
+[2025-12-26 15:25:05] [INFO] Checking: google.com
+[2025-12-26 15:25:05] [INFO]   ✅ UP google.com - Latency: 23.1ms
+[2025-12-26 15:25:05] [INFO] === FINAL REPORT ===
+[2025-12-26 15:25:05] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:25:05] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:25:05] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:25:05] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 15:30:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 15:30:04] [INFO] Checking 2 targets
+[2025-12-26 15:30:04] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 15:30:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 15:30:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 21.8ms
+[2025-12-26 15:30:04] [INFO] Checking: google.com
+[2025-12-26 15:30:04] [INFO]   ✅ UP google.com - Latency: 23.4ms
+[2025-12-26 15:30:04] [INFO] === FINAL REPORT ===
+[2025-12-26 15:30:04] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 15:30:04] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 15:30:04] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 15:30:04] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:00:01] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:00:01] [INFO] Checking 2 targets
+[2025-12-26 17:00:01] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:00:01] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:00:01] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.4ms
+[2025-12-26 17:00:01] [INFO] Checking: google.com
+[2025-12-26 17:00:01] [INFO]   ✅ UP google.com - Latency: 44.4ms
+[2025-12-26 17:00:01] [INFO] === FINAL REPORT ===
+[2025-12-26 17:00:01] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:00:01] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:00:01] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:00:01] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:01:52] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:01:52] [INFO] Checking 2 targets
+[2025-12-26 17:01:52] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:01:52] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:01:52] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.1ms
+[2025-12-26 17:01:52] [INFO] Checking: google.com
+[2025-12-26 17:01:52] [INFO]   ✅ UP google.com - Latency: 27.7ms
+[2025-12-26 17:01:52] [INFO] === FINAL REPORT ===
+[2025-12-26 17:01:52] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:01:52] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:01:52] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:01:52] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:13:33] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:13:33] [INFO] Checking 2 targets
+[2025-12-26 17:13:33] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:13:33] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:13:33] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.9ms
+[2025-12-26 17:13:33] [INFO] Checking: google.com
+[2025-12-26 17:13:33] [INFO]   ✅ UP google.com - Latency: 22.7ms
+[2025-12-26 17:13:33] [INFO] === FINAL REPORT ===
+[2025-12-26 17:13:33] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:13:33] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:13:33] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:13:33] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:17:49] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:17:49] [INFO] Checking 2 targets
+[2025-12-26 17:17:49] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:17:49] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:17:52] [INFO]   ✅ UP 8.8.8.8 - Latency: 30.3ms
+[2025-12-26 17:17:52] [INFO] Checking: google.com
+[2025-12-26 17:17:52] [INFO]   ✅ UP google.com - Latency: 22.7ms
+[2025-12-26 17:17:52] [INFO] === FINAL REPORT ===
+[2025-12-26 17:17:52] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:17:52] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:17:52] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:17:52] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:20:43] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:20:43] [INFO] Checking 2 targets
+[2025-12-26 17:20:43] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:20:43] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:20:43] [INFO]   ✅ UP 8.8.8.8 - Latency: 27.4ms
+[2025-12-26 17:20:43] [INFO] Checking: google.com
+[2025-12-26 17:20:43] [INFO]   ✅ UP google.com - Latency: 22.5ms
+[2025-12-26 17:20:43] [INFO] === FINAL REPORT ===
+[2025-12-26 17:20:43] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:20:43] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:20:43] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:20:43] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:24:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:24:07] [INFO] Checking 2 targets
+[2025-12-26 17:24:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:24:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:24:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 56.4ms
+[2025-12-26 17:24:07] [INFO] Checking: google.com
+[2025-12-26 17:24:08] [INFO]   ✅ UP google.com - Latency: 62.9ms
+[2025-12-26 17:24:08] [INFO] === FINAL REPORT ===
+[2025-12-26 17:24:08] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:24:08] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:24:08] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:24:08] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:25:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:25:07] [INFO] Checking 2 targets
+[2025-12-26 17:25:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 17:25:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 17:25:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 25.9ms
+[2025-12-26 17:25:07] [INFO] Checking: google.com
+[2025-12-26 17:25:07] [INFO]   ✅ UP google.com - Latency: 23.2ms
+[2025-12-26 17:25:07] [INFO] === FINAL REPORT ===
+[2025-12-26 17:25:07] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 17:25:07] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 17:25:07] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:25:07] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:34:37] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:34:37] [INFO] Checking 1 targets
+[2025-12-26 17:34:37] [INFO] Targets: 999.999.999.999
+[2025-12-26 17:34:37] [INFO] Checking: 999.999.999.999
+[2025-12-26 17:34:37] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:34:39] [ERROR]   ❌ DOWN 999.999.999.999
+[2025-12-26 17:34:39] [ERROR] ALERT: 999.999.999.999 is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:34:39] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 17:34:43] [INFO]   📋 Network diagnosis saved
+[2025-12-26 17:34:43] [INFO] === FINAL REPORT ===
+[2025-12-26 17:34:43] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 17:34:43] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 17:34:43] [INFO]   [2025-12-26 17:34:39]  NETWORK_DIAGNOSIS for 999.999.999.999
+[2025-12-26 17:34:43] [INFO]   [2025-12-26 17:34:39]    ✗ NO ROUTE to 999.999.999.999
+[2025-12-26 17:34:43] [INFO]   [2025-12-26 17:34:39]    ✓ Network interface is UP
+[2025-12-26 17:34:43] [INFO]   [2025-12-26 17:34:39]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 17:34:43] [INFO]   [2025-12-26 17:34:43]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 17:34:43] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 17:34:43] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 17:34:43] [INFO] Summary: ❌ 999.999.999.999 
+[2025-12-26 17:34:43] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:34:43] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:36:17] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:36:17] [INFO] Checking 1 targets
+[2025-12-26 17:36:17] [INFO] Targets: nonexistent-1766745377.test
+[2025-12-26 17:36:17] [INFO] Checking: nonexistent-1766745377.test
+[2025-12-26 17:36:17] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:36:19] [ERROR]   ❌ DOWN nonexistent-1766745377.test
+[2025-12-26 17:36:19] [ERROR] ALERT: nonexistent-1766745377.test is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:36:19] [INFO]   🩺 Switching to DNS diagnosis mode
+[2025-12-26 17:36:37] [INFO]   📋 DNS diagnosis saved
+[2025-12-26 17:36:37] [INFO] === FINAL REPORT ===
+[2025-12-26 17:36:37] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 17:36:37] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:34:39]    ✓ Network interface is UP
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:34:39]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:34:43]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:36:19]  DNS_DIAGNOSIS for nonexistent-1766745377.test
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:36:37]    ✗ DNS resolution FAILED with all servers
+[2025-12-26 17:36:37] [INFO]   [2025-12-26 17:36:37]    ✗ Not found in /etc/hosts
+[2025-12-26 17:36:37] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 17:36:37] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 17:36:38] [INFO] Summary: ❌ nonexistent-1766745377.test 
+[2025-12-26 17:36:38] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:36:38] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:37:51] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:37:51] [INFO] Checking 2 targets
+[2025-12-26 17:37:51] [INFO] Targets: bad-domain-1766745471.test 999.999.999.999
+[2025-12-26 17:37:51] [INFO] Checking: bad-domain-1766745471.test
+[2025-12-26 17:37:52] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:37:54] [ERROR]   ❌ DOWN bad-domain-1766745471.test
+[2025-12-26 17:37:54] [ERROR] ALERT: bad-domain-1766745471.test is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:37:54] [INFO]   🩺 Switching to DNS diagnosis mode
+[2025-12-26 17:38:09] [INFO]   📋 DNS diagnosis saved
+[2025-12-26 17:38:09] [INFO] Checking: 999.999.999.999
+[2025-12-26 17:38:10] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:38:15] [ERROR]   ❌ DOWN 999.999.999.999
+[2025-12-26 17:38:15] [ERROR] ALERT: 999.999.999.999 is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:38:15] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 17:38:16] [INFO]   📋 Network diagnosis saved
+[2025-12-26 17:38:16] [INFO] === FINAL REPORT ===
+[2025-12-26 17:38:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 17:38:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:09]    ✗ Not found in /etc/hosts
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:15]  NETWORK_DIAGNOSIS for 999.999.999.999
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:15]    ✗ NO ROUTE to 999.999.999.999
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:15]    ✓ Network interface is UP
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:15]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 17:38:16] [INFO]   [2025-12-26 17:38:16]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 17:38:16] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 17:38:16] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 17:38:16] [INFO] Summary: ❌ bad-domain-1766745471.test ❌ 999.999.999.999 
+[2025-12-26 17:38:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:38:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:39:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:39:07] [INFO] Checking 2 targets
+[2025-12-26 17:39:07] [INFO] Targets: bad-domain-1766745547.test 999.999.999.999
+[2025-12-26 17:39:07] [INFO] Checking: bad-domain-1766745547.test
+[2025-12-26 17:39:08] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:39:10] [ERROR]   ❌ DOWN bad-domain-1766745547.test
+[2025-12-26 17:39:10] [ERROR] ALERT: bad-domain-1766745547.test is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:39:10] [INFO]   🩺 Switching to DNS diagnosis mode
+[2025-12-26 17:39:29] [INFO]   📋 DNS diagnosis saved
+[2025-12-26 17:39:29] [INFO] Checking: 999.999.999.999
+[2025-12-26 17:39:29] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 17:39:31] [ERROR]   ❌ DOWN 999.999.999.999
+[2025-12-26 17:39:31] [ERROR] ALERT: 999.999.999.999 is DOWN (ping failed after 2 attempts)
+[2025-12-26 17:39:31] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 17:39:32] [INFO]   📋 Network diagnosis saved
+[2025-12-26 17:39:32] [INFO] === FINAL REPORT ===
+[2025-12-26 17:39:32] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 17:39:32] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:28]    ✗ Not found in /etc/hosts
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:31]  NETWORK_DIAGNOSIS for 999.999.999.999
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:31]    ✗ NO ROUTE to 999.999.999.999
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:31]    ✓ Network interface is UP
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:31]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 17:39:32] [INFO]   [2025-12-26 17:39:32]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 17:39:32] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 17:39:32] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 17:39:32] [INFO] Summary: ❌ bad-domain-1766745547.test ❌ 999.999.999.999 
+[2025-12-26 17:39:32] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 17:39:32] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 17:55:06] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 17:55:07] [INFO] Checking 2 targets
+[2025-12-26 17:55:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 18:00:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 18:00:07] [INFO] Checking 2 targets
+[2025-12-26 18:00:07] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 18:05:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 18:05:04] [INFO] Checking 3 targets
+[2025-12-26 18:05:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 18:10:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 18:10:07] [INFO] Checking 3 targets
+[2025-12-26 18:10:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 18:10:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 18:10:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.8ms
+[2025-12-26 18:10:07] [INFO] Checking: google.com
+[2025-12-26 18:10:07] [INFO]   ✅ UP google.com - Latency: 25.1ms
+[2025-12-26 18:10:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 18:10:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 18:10:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 18:10:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 18:10:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 18:10:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 18:10:14] [INFO] === FINAL REPORT ===
+[2025-12-26 18:10:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 18:10:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 17:39:32]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 18:10:13]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 18:10:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 18:10:13]    ✓ Network interface is UP
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 18:10:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 18:10:14] [INFO]   [2025-12-26 18:10:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:10:14] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 18:10:14] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 18:10:14] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 18:10:14] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 18:10:14] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 18:15:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 18:15:04] [INFO] Checking 3 targets
+[2025-12-26 18:15:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 18:15:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 18:15:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.1ms
+[2025-12-26 18:15:04] [INFO] Checking: google.com
+[2025-12-26 18:15:04] [INFO]   ✅ UP google.com - Latency: 24.5ms
+[2025-12-26 18:15:04] [INFO] Checking: 169.254.255.255
+[2025-12-26 18:15:06] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 18:15:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 18:15:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 18:15:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 18:15:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 18:15:14] [INFO] === FINAL REPORT ===
+[2025-12-26 18:15:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 18:15:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:10:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:15:13]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:15:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:15:13]    ✓ Network interface is UP
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:15:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 18:15:14] [INFO]   [2025-12-26 18:15:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:15:14] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 18:15:14] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 18:15:14] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 18:15:14] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 18:15:14] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 18:20:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 18:20:07] [INFO] Checking 3 targets
+[2025-12-26 18:20:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 18:20:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 18:20:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.0ms
+[2025-12-26 18:20:07] [INFO] Checking: google.com
+[2025-12-26 18:20:07] [INFO]   ✅ UP google.com - Latency: 23.7ms
+[2025-12-26 18:20:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 18:20:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 18:20:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 18:20:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 18:20:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 18:20:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 18:20:14] [INFO] === FINAL REPORT ===
+[2025-12-26 18:20:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 18:20:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:15:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:20:13]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:20:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:20:13]    ✓ Network interface is UP
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:20:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 18:20:14] [INFO]   [2025-12-26 18:20:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 18:20:14] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 18:20:14] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 18:20:14] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 18:20:14] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 18:20:14] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:20:06] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:20:06] [INFO] Checking 3 targets
+[2025-12-26 22:20:06] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:20:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:20:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.9ms
+[2025-12-26 22:20:07] [INFO] Checking: google.com
+[2025-12-26 22:20:07] [INFO]   ✅ UP google.com - Latency: 25.0ms
+[2025-12-26 22:20:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:20:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:20:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:20:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:20:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:20:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:20:14] [INFO] === FINAL REPORT ===
+[2025-12-26 22:20:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:20:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 18:20:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 22:20:13]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 22:20:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 22:20:13]    ✓ Network interface is UP
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 22:20:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:20:14] [INFO]   [2025-12-26 22:20:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:20:14] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:20:14] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:20:14] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:20:14] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:20:14] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:20:16] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:20:16] [INFO] Checking 2 targets
+[2025-12-26 22:20:16] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 22:20:16] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:20:16] [INFO]   ✅ UP 8.8.8.8 - Latency: 53.2ms
+[2025-12-26 22:20:16] [INFO] Checking: google.com
+[2025-12-26 22:20:16] [INFO]   ✅ UP google.com - Latency: 59.1ms
+[2025-12-26 22:20:16] [INFO] === FINAL REPORT ===
+[2025-12-26 22:20:16] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 22:20:16] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 22:20:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:20:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:22:51] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:22:51] [INFO] Checking 2 targets
+[2025-12-26 22:22:51] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 22:22:51] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:22:51] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.5ms
+[2025-12-26 22:22:51] [INFO] Checking: google.com
+[2025-12-26 22:22:51] [INFO]   ✅ UP google.com - Latency: 23.4ms
+[2025-12-26 22:22:51] [INFO] === FINAL REPORT ===
+[2025-12-26 22:22:51] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 22:22:51] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 22:22:51] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:22:51] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:25:03] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:25:03] [INFO] Checking 3 targets
+[2025-12-26 22:25:03] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:25:03] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:25:03] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-26 22:25:03] [INFO] Checking: google.com
+[2025-12-26 22:25:04] [INFO]   ✅ UP google.com - Latency: 24.7ms
+[2025-12-26 22:25:04] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:25:06] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:25:10] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:25:10] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:25:10] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:25:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:25:14] [INFO] === FINAL REPORT ===
+[2025-12-26 22:25:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:25:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:20:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:25:10]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:25:10]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:25:10]    ✓ Network interface is UP
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:25:10]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:25:14] [INFO]   [2025-12-26 22:25:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:25:14] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:25:14] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:25:14] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:25:14] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:25:14] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:30:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:30:07] [INFO] Checking 3 targets
+[2025-12-26 22:30:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:30:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:30:08] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.0ms
+[2025-12-26 22:30:08] [INFO] Checking: google.com
+[2025-12-26 22:30:08] [INFO]   ✅ UP google.com - Latency: 45.8ms
+[2025-12-26 22:30:08] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:30:10] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:30:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:30:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:30:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:30:15] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:30:15] [INFO] === FINAL REPORT ===
+[2025-12-26 22:30:15] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:30:15] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:25:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:30:14]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:30:14]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:30:14]    ✓ Network interface is UP
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:30:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:30:15] [INFO]   [2025-12-26 22:30:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:30:15] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:30:15] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:30:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:30:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:30:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:35:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:35:04] [INFO] Checking 3 targets
+[2025-12-26 22:35:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:35:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:35:05] [INFO]   ✅ UP 8.8.8.8 - Latency: 38.7ms
+[2025-12-26 22:35:05] [INFO] Checking: google.com
+[2025-12-26 22:35:05] [INFO]   ✅ UP google.com - Latency: 43.3ms
+[2025-12-26 22:35:05] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:35:07] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:35:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:35:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:35:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:35:15] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:35:15] [INFO] === FINAL REPORT ===
+[2025-12-26 22:35:15] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:35:15] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:30:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:35:14]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:35:14]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:35:14]    ✓ Network interface is UP
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:35:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:35:15] [INFO]   [2025-12-26 22:35:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:35:15] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:35:15] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:35:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:35:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:35:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:40:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:40:07] [INFO] Checking 3 targets
+[2025-12-26 22:40:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:40:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:40:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.4ms
+[2025-12-26 22:40:07] [INFO] Checking: google.com
+[2025-12-26 22:40:07] [INFO]   ✅ UP google.com - Latency: 25.6ms
+[2025-12-26 22:40:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:40:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:40:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:40:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:40:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:40:14] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:40:14] [INFO] === FINAL REPORT ===
+[2025-12-26 22:40:14] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:40:14] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:35:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:40:13]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:40:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:40:13]    ✓ Network interface is UP
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:40:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:40:15] [INFO]   [2025-12-26 22:40:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:40:15] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:40:15] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:40:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:40:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:40:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:45:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:45:04] [INFO] Checking 3 targets
+[2025-12-26 22:45:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:45:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:45:05] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.3ms
+[2025-12-26 22:45:05] [INFO] Checking: google.com
+[2025-12-26 22:45:05] [INFO]   ✅ UP google.com - Latency: 23.3ms
+[2025-12-26 22:45:05] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:45:07] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:45:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:45:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:45:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:45:15] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:45:15] [INFO] === FINAL REPORT ===
+[2025-12-26 22:45:15] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:45:15] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:40:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:45:14]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:45:14]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:45:14]    ✓ Network interface is UP
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:45:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:45:15] [INFO]   [2025-12-26 22:45:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:45:15] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:45:15] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:45:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:45:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:45:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:50:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:50:07] [INFO] Checking 3 targets
+[2025-12-26 22:50:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:50:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:50:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.6ms
+[2025-12-26 22:50:07] [INFO] Checking: google.com
+[2025-12-26 22:50:08] [INFO]   ✅ UP google.com - Latency: 26.9ms
+[2025-12-26 22:50:08] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:50:10] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:50:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:50:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:50:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:50:15] [INFO]   📋 Network diagnosis saved
+[2025-12-26 22:50:15] [INFO] === FINAL REPORT ===
+[2025-12-26 22:50:15] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:50:15] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:45:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:50:14]  NETWORK_DIAGNOSIS for 169.254.255.255
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:50:14]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:50:14]    ✓ Network interface is UP
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:50:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:50:15] [INFO]   [2025-12-26 22:50:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:50:15] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/alerts/diagnosis-20251226.log
+[2025-12-26 22:50:15] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:50:15] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 22:50:15] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:50:15] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 22:55:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 22:55:04] [INFO] Checking 3 targets
+[2025-12-26 22:55:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 22:55:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 22:55:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.3ms
+[2025-12-26 22:55:04] [INFO] Checking: google.com
+[2025-12-26 22:55:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:55:11] [ERROR]   ❌ DOWN google.com
+[2025-12-26 22:55:11] [ERROR] ALERT: google.com is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:55:11] [INFO]   🩺 Switching to DNS diagnosis mode
+[2025-12-26 22:55:11] [INFO]   📋 DNS diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 22:55:13] [INFO] Checking: 169.254.255.255
+[2025-12-26 22:55:15] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 22:55:19] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 22:55:19] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 22:55:19] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 22:55:20] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 22:55:22] [INFO] === FINAL REPORT ===
+[2025-12-26 22:55:22] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 22:55:22] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:19]    ✓ Route exists to 169.254.255.255
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:19]    ✓ Network interface is UP
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:19]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:20]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:20]  ✓ At least one interface is UP
+[2025-12-26 22:55:22] [INFO]   [2025-12-26 22:55:22]  ✗ Gateway is NOT reachable
+[2025-12-26 22:55:22] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 22:55:22] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 22:55:22] [INFO] Summary: ✅ 8.8.8.8 ❌ google.com ❌ 169.254.255.255 
+[2025-12-26 22:55:22] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 22:55:22] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:00:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:00:07] [INFO] Checking 3 targets
+[2025-12-26 23:00:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:00:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:00:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.5ms
+[2025-12-26 23:00:07] [INFO] Checking: google.com
+[2025-12-26 23:00:07] [INFO]   ✅ UP google.com - Latency: 24.2ms
+[2025-12-26 23:00:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:00:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:00:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:00:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:00:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:00:14] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:00:16] [INFO] === FINAL REPORT ===
+[2025-12-26 23:00:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:00:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:13]    ✓ Network interface is UP
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:14]  ✓ At least one interface is UP
+[2025-12-26 23:00:16] [INFO]   [2025-12-26 23:00:16]  ✗ Gateway is NOT reachable
+[2025-12-26 23:00:16] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:00:16] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:00:16] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:00:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:00:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:05:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:05:04] [INFO] Checking 3 targets
+[2025-12-26 23:05:04] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:05:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:05:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.7ms
+[2025-12-26 23:05:04] [INFO] Checking: google.com
+[2025-12-26 23:05:04] [INFO]   ✅ UP google.com - Latency: 27.1ms
+[2025-12-26 23:05:04] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:05:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:05:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:05:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:05:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:05:14] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:05:16] [INFO] === FINAL REPORT ===
+[2025-12-26 23:05:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:05:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:13]    ✓ Network interface is UP
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:14]  ✓ At least one interface is UP
+[2025-12-26 23:05:16] [INFO]   [2025-12-26 23:05:16]  ✗ Gateway is NOT reachable
+[2025-12-26 23:05:16] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:05:16] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:05:16] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:05:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:05:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:10:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:10:07] [INFO] Checking 3 targets
+[2025-12-26 23:10:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:10:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:10:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 26.7ms
+[2025-12-26 23:10:07] [INFO] Checking: google.com
+[2025-12-26 23:10:07] [INFO]   ✅ UP google.com - Latency: 24.1ms
+[2025-12-26 23:10:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:10:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:10:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:10:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:10:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:10:14] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:10:16] [INFO] === FINAL REPORT ===
+[2025-12-26 23:10:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:10:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:13]    ✓ Network interface is UP
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:14]  ✓ At least one interface is UP
+[2025-12-26 23:10:16] [INFO]   [2025-12-26 23:10:16]  ✗ Gateway is NOT reachable
+[2025-12-26 23:10:16] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:10:16] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:10:16] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:10:16] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:10:16] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:10:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:10:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:15:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:15:07] [INFO] Checking 3 targets
+[2025-12-26 23:15:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:15:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:15:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 34.5ms
+[2025-12-26 23:15:07] [INFO] Checking: google.com
+[2025-12-26 23:15:07] [INFO]   ✅ UP google.com - Latency: 26.1ms
+[2025-12-26 23:15:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:15:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:15:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:15:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:15:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:15:14] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:15:16] [INFO] === FINAL REPORT ===
+[2025-12-26 23:15:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:15:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:15:16] [INFO]   [2025-12-26 23:15:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:15:16] [INFO]   [2025-12-26 23:15:13]    ✓ Network interface is UP
+[2025-12-26 23:15:16] [INFO]   [2025-12-26 23:15:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:15:17] [INFO]   [2025-12-26 23:15:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:15:17] [INFO]   [2025-12-26 23:15:14]  ✓ At least one interface is UP
+[2025-12-26 23:15:17] [INFO]   [2025-12-26 23:15:16]  ✗ Gateway is NOT reachable
+[2025-12-26 23:15:17] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:15:17] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:15:17] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:15:17] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:15:17] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:15:17] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:15:17] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:20:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:20:07] [INFO] Checking 3 targets
+[2025-12-26 23:20:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:20:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:20:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.6ms
+[2025-12-26 23:20:07] [INFO] Checking: google.com
+[2025-12-26 23:20:07] [INFO]   ✅ UP google.com - Latency: 24.3ms
+[2025-12-26 23:20:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:20:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:20:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:20:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:20:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:20:15] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:20:17] [INFO] === FINAL REPORT ===
+[2025-12-26 23:20:17] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:20:17] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:13]    ✓ Network interface is UP
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:15]  ✓ At least one interface is UP
+[2025-12-26 23:20:17] [INFO]   [2025-12-26 23:20:17]  ✗ Gateway is NOT reachable
+[2025-12-26 23:20:17] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:20:17] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:20:17] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:20:17] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:20:17] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:20:17] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:20:17] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:23:36] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:23:36] [INFO] Checking 2 targets
+[2025-12-26 23:23:36] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:23:36] [INFO] Flapping test: #FLAPPING_MODE mode (enabled)
+[2025-12-26 23:23:36] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:23:36] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:23:36] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:23:36] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:23:36] [INFO]   ✅ UP 8.8.8.8 - Latency: 37.4ms
+[2025-12-26 23:23:36] [INFO] Checking: google.com
+[2025-12-26 23:23:36] [INFO]   ✅ UP google.com - Latency: 24.7ms
+[2025-12-26 23:23:36] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:23:38] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:23:42] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:23:42] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:23:42] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:25:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:25:07] [INFO] Checking 3 targets
+[2025-12-26 23:25:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:25:07] [INFO] Flapping test: #FLAPPING_MODE mode (enabled)
+[2025-12-26 23:25:07] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:25:07] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:25:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:25:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.6ms
+[2025-12-26 23:25:07] [INFO] Checking: google.com
+[2025-12-26 23:25:07] [INFO]   ✅ UP google.com - Latency: 26.0ms
+[2025-12-26 23:25:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:25:10] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:25:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:25:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:25:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:25:15] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:25:17] [INFO] === FINAL REPORT ===
+[2025-12-26 23:25:17] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:25:17] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:14]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:14]    ✓ Network interface is UP
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:14]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:15]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:15]  ✓ At least one interface is UP
+[2025-12-26 23:25:17] [INFO]   [2025-12-26 23:25:17]  ✗ Gateway is NOT reachable
+[2025-12-26 23:25:17] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:25:17] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:25:17] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:25:17] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:25:17] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:25:17] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:25:17] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:30:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:30:07] [INFO] Checking 3 targets
+[2025-12-26 23:30:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:30:07] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:30:07] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:30:07] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:30:07] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255 169.254.255.255
+[2025-12-26 23:30:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:30:08] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-26 23:30:08] [INFO] Checking: google.com
+[2025-12-26 23:30:08] [INFO]   ✅ UP google.com - Latency: 22.9ms
+[2025-12-26 23:30:08] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:30:10] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:30:14] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:30:14] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:30:14] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:30:15] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:30:17] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:30:22] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:30:26] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:30:26] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:30:26] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:30:27] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:30:29] [INFO] === FINAL REPORT ===
+[2025-12-26 23:30:29] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:30:29] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:26]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:26]    ✓ Network interface is UP
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:26]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:27]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:27]  ✓ At least one interface is UP
+[2025-12-26 23:30:29] [INFO]   [2025-12-26 23:30:29]  ✗ Gateway is NOT reachable
+[2025-12-26 23:30:29] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:30:29] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:30:29] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:30:29] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:30:29] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 ❌ 169.254.255.255 
+[2025-12-26 23:30:29] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:30:29] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:35:07] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:35:07] [INFO] Checking 3 targets
+[2025-12-26 23:35:07] [INFO] Targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:35:07] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:35:07] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:35:07] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:35:07] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:35:07] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-26 23:35:07] [INFO] Checking: google.com
+[2025-12-26 23:35:07] [INFO]   ✅ UP google.com - Latency: 22.6ms
+[2025-12-26 23:35:07] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:35:09] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:35:13] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:35:13] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:35:13] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:35:14] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:35:16] [INFO] === FINAL REPORT ===
+[2025-12-26 23:35:16] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:35:16] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:13]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:13]    ✓ Network interface is UP
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:13]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:14]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:14]  ✓ At least one interface is UP
+[2025-12-26 23:35:16] [INFO]   [2025-12-26 23:35:16]  ✗ Gateway is NOT reachable
+[2025-12-26 23:35:16] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:35:16] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:35:16] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:35:16] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:35:16] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:35:16] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:35:16] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:39:19] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:39:19] [INFO] Checking 2 targets
+[2025-12-26 23:39:19] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:39:19] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:19] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:19] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:39:19] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:39:19] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.7ms
+[2025-12-26 23:39:19] [INFO] Checking: google.com
+[2025-12-26 23:39:19] [INFO]   ✅ UP google.com - Latency: 22.5ms
+[2025-12-26 23:39:19] [INFO] === FINAL REPORT ===
+[2025-12-26 23:39:19] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:39:19] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:39:19] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:39:19] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:39:29] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:39:29] [INFO] Checking 2 targets
+[2025-12-26 23:39:29] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:39:29] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:29] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:29] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:39:29] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:39:29] [INFO]   ✅ UP 8.8.8.8 - Latency: 28.9ms
+[2025-12-26 23:39:29] [INFO] Checking: google.com
+[2025-12-26 23:39:30] [INFO]   ✅ UP google.com - Latency: 25.7ms
+[2025-12-26 23:39:30] [INFO] === FINAL REPORT ===
+[2025-12-26 23:39:30] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:39:30] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:39:30] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:39:30] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:39:40] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:39:40] [INFO] Checking 2 targets
+[2025-12-26 23:39:40] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:39:40] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:40] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:40] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:39:40] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:39:40] [INFO]   ✅ UP 8.8.8.8 - Latency: 25.9ms
+[2025-12-26 23:39:40] [INFO] Checking: google.com
+[2025-12-26 23:39:40] [INFO]   ✅ UP google.com - Latency: 24.0ms
+[2025-12-26 23:39:40] [INFO] === FINAL REPORT ===
+[2025-12-26 23:39:40] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:39:40] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:39:40] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:39:40] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:39:54] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:39:54] [INFO] Checking 2 targets
+[2025-12-26 23:39:54] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:39:54] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:54] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:39:54] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:39:54] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:39:54] [INFO]   ✅ UP 8.8.8.8 - Latency: 25.4ms
+[2025-12-26 23:39:54] [INFO] Checking: google.com
+[2025-12-26 23:39:54] [INFO]   ✅ UP google.com - Latency: 25.4ms
+[2025-12-26 23:39:54] [INFO] === FINAL REPORT ===
+[2025-12-26 23:39:54] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:39:54] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:39:54] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:39:54] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:40:04] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:40:04] [INFO] Checking 2 targets
+[2025-12-26 23:40:04] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:40:04] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:40:04] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:40:04] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:40:04] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:40:04] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:40:04] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.3ms
+[2025-12-26 23:40:04] [INFO] Checking: google.com
+[2025-12-26 23:40:04] [INFO]   ✅ UP google.com - Latency: 35.6ms
+[2025-12-26 23:40:04] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:40:06] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:40:08] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:40:08] [INFO] Checking 2 targets
+[2025-12-26 23:40:08] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:40:08] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:40:08] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:40:08] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:40:08] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:40:08] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:40:08] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.2ms
+[2025-12-26 23:40:08] [INFO] Checking: google.com
+[2025-12-26 23:40:09] [INFO]   ✅ UP google.com - Latency: 26.9ms
+[2025-12-26 23:40:09] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:40:10] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:40:10] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:40:10] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:40:11] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:40:15] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:40:15] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:40:15] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:40:16] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:40:18] [INFO] === FINAL REPORT ===
+[2025-12-26 23:40:18] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:40:18] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:15]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:15]    ✓ Network interface is UP
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:15]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:16]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:16]  ✓ At least one interface is UP
+[2025-12-26 23:40:18] [INFO]   [2025-12-26 23:40:18]  ✗ Gateway is NOT reachable
+[2025-12-26 23:40:18] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:40:18] [INFO]  Default gateway: NOT SET
+[2025-12-26 23:40:18] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:40:18] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:40:18] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:40:18] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:40:18] [INFO] === MONITOR COMPLETE ===
+
+[2025-12-26 23:45:05] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:45:05] [INFO] Checking 2 targets
+[2025-12-26 23:45:05] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:45:05] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:45:05] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:45:05] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:45:05] [INFO]   ✅ UP 8.8.8.8 - Latency: 25.0ms
+[2025-12-26 23:45:05] [INFO] Checking: google.com
+[2025-12-26 23:45:05] [INFO]   ✅ UP google.com - Latency: 28.1ms
+[2025-12-26 23:45:05] [INFO] === FINAL REPORT ===
+[2025-12-26 23:45:05] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:45:05] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:45:05] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:45:05] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:50:08] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:50:08] [INFO] Checking 2 targets
+[2025-12-26 23:50:08] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:50:08] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:50:08] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:50:09] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:50:09] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:50:09] [INFO]   ✅ UP 8.8.8.8 - Latency: 23.1ms
+[2025-12-26 23:50:09] [INFO] Checking: google.com
+[2025-12-26 23:50:09] [INFO]   ✅ UP google.com - Latency: 26.3ms
+[2025-12-26 23:50:09] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:50:11] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:50:15] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:50:15] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:50:15] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:50:16] [INFO]   📋 Network diagnosis saved
+eth0             UP             00:15:5d:44:ae:89 <BROADCAST,MULTICAST,UP,LOWER_UP> 
+[2025-12-26 23:50:18] [INFO] === FINAL REPORT ===
+[2025-12-26 23:50:18] [ERROR] ❌ STATUS: DEGRADED - Check alerts & diagnosis
+[2025-12-26 23:50:18] [INFO] 🔍 Diagnosis summary:
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:15]    ✓ Route exists to 169.254.255.255
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:15]    ✓ Network interface is UP
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:15]    ✓ Default gateway: 172.18.176.1
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:16]    ✗ Gateway 172.18.176.1 is UNREACHABLE
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:16]  ✓ At least one interface is UP
+[2025-12-26 23:50:18] [INFO]   [2025-12-26 23:50:18]  ✗ Gateway is NOT reachable
+[2025-12-26 23:50:18] [INFO]  Interface status: 1 interface(s) UP
+[2025-12-26 23:50:18] [INFO]  Current gateway: NOT SET
+[2025-12-26 23:50:18] [INFO] 📋 Full diagnosis: /home/dawg/noc-practice/diagnosis/diagnosis-20251226.log
+[2025-12-26 23:50:18] [INFO] 🚨 Alerts: /home/dawg/noc-practice/alerts/alerts-20251226.log
+[2025-12-26 23:50:18] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com ❌ 169.254.255.255 
+[2025-12-26 23:50:18] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:50:18] [INFO] === MONITOR COMPLETE ===
+[2025-12-26 23:54:16] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:54:16] [INFO] Checking 2 targets
+[2025-12-26 23:54:16] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:54:16] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:54:16] [INFO] ⏰ [TIME-BASED TEST] Adding synthetic failure target
+[2025-12-26 23:54:16] [INFO] Updated targets: 8.8.8.8 google.com 169.254.255.255
+[2025-12-26 23:54:16] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:54:16] [INFO]   ✅ UP 8.8.8.8 - Latency: 24.3ms
+[2025-12-26 23:54:16] [INFO] Checking: google.com
+[2025-12-26 23:54:16] [INFO]   ✅ UP google.com - Latency: 25.6ms
+[2025-12-26 23:54:16] [INFO] Checking: 169.254.255.255
+[2025-12-26 23:54:18] [INFO]   ⚠️  First attempt failed, starting quick diagnosis...
+[2025-12-26 23:54:22] [ERROR]   ❌ DOWN 169.254.255.255
+[2025-12-26 23:54:22] [ERROR] ALERT: 169.254.255.255 is DOWN (ping failed after 2 attempts)
+[2025-12-26 23:54:22] [INFO]   🩺 Switching to NETWORK diagnosis mode
+[2025-12-26 23:55:08] [INFO] === NOC MONITOR STARTED ===
+[2025-12-26 23:55:08] [INFO] Checking 2 targets
+[2025-12-26 23:55:08] [INFO] Targets: 8.8.8.8 google.com
+[2025-12-26 23:55:08] [INFO] Flapping test: time mode (enabled)
+[2025-12-26 23:55:08] [INFO] Updated targets: 8.8.8.8 google.com
+[2025-12-26 23:55:08] [INFO] Checking: 8.8.8.8
+[2025-12-26 23:55:08] [INFO]   ✅ UP 8.8.8.8 - Latency: 22.3ms
+[2025-12-26 23:55:08] [INFO] Checking: google.com
+[2025-12-26 23:55:08] [INFO]   ✅ UP google.com - Latency: 23.1ms
+[2025-12-26 23:55:08] [INFO] === FINAL REPORT ===
+[2025-12-26 23:55:08] [INFO] ✅ STATUS: ALL SYSTEMS HEALTHY
+[2025-12-26 23:55:08] [INFO] Summary: ✅ 8.8.8.8 ✅ google.com 
+[2025-12-26 23:55:08] [INFO] Log saved to: /home/dawg/noc-practice/logs/monitor-20251226.log
+[2025-12-26 23:55:08] [INFO] === MONITOR COMPLETE ===
