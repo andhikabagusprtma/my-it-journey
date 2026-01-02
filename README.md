@@ -5,6 +5,30 @@ Automated network monitoring system with:
 - Root cause diagnosis (gateway, interface, DNS)
 - Auto-remediation for common network issues
 
+## 🚀 Setup & Usage
+### Run manually
+git clone github.com (https://github.com/andhikabagusprtma/my-it-journey.git)
+cd my-it-journey
+chmod +x scripts/*.sh (chmod +x scripts/monitor.sh)
+./scripts/monitor.sh
+
+### Auto-Run with cron (every 5 minutes)
+crontab -e
+
+*/5 * * * * /home/username/my-it-journey/scripts/monitor.sh
+# Example for user "gael":
+*/5 * * * * /home/gael/my-it-journey/scripts/monitor.sh
+
+# Start cron (WSL2 only)
+sudo service cron start 
+
+# Stop cron
+sudo service cron stop
+
+## ⚠️ NOTES
+Warnings like sudo: unable to resolve host are safe to ignore in WSL2.
+First run creates logs/, alerts/, and diagnosis/ folders automatically.
+
 ## 📁 Structure
 - `scripts/monitor.sh` → main monitoring logic  
 - `scripts/remediate.sh` → auto-fix network problems  
