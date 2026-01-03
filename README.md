@@ -31,7 +31,7 @@ Automated network monitoring system with:
 - sudo systemctl stop cron → If you want this program to stop
 # 📊 Check cron status
 - systemctl status cron
-💡 Note: Stopping cron won’t stop a currently running script it only prevents future runs.
+# 💡 Note: Stopping cron won’t stop a currently running script it only prevents future runs.
 
 ## ⚠️ NOTES
 - Warnings like sudo: unable to resolve host are safe to ignore in WSL2.
