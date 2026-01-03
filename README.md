@@ -10,21 +10,17 @@ Automated network monitoring system with:
 ### ▶️ Run manually
 1. git clone https://github.com/andhikabagusprtma/my-it-journey.git
 2. cd my-it-journey
-3. ls
-  - `alerts`
-  - `backups`
-  - `diagnosis`
-  - `logs`
-  - `scripts` → Select this
+3. (Optional) Check folder structure — after first run, you’ll see:
+   - `scripts/`
+   - `logs/`, `alerts/`, `diagnosis/` (created automatically)
 4. chmod +x scripts/*.sh
 5. ./scripts/monitor.sh
 
 ### 🔄 Auto-Run with cron (every 5 minutes)
 1. crontab -e
 2. */5 * * * * /home/username/my-it-journey/scripts/monitor.sh
-3. chmod +x /home/username/my-it-journey/scripts/monitor.sh
-4. start cron
-5. check cron status
+3. sudo systemctl start cron
+4. systemctl status cron
 
 # ✅ Checking your username (Example for user "gael"):
 - Run 'whoami' in WSL to verify your username
