@@ -10,7 +10,7 @@ Automated network monitoring system with:
 ### ▶️ Run manually
 1. git clone https://github.com/andhikabagusprtma/my-it-journey.git
 2. cd my-it-journey
-3. (Optional) Check folder structure — after first run, you’ll see:
+3. (Optional) Check folder structure after first run, you’ll see:
    - `scripts/`
    - `logs/`, `alerts/`, `diagnosis/` (created automatically)
 4. chmod +x scripts/*.sh
@@ -22,23 +22,21 @@ Automated network monitoring system with:
 3. sudo systemctl start cron
 4. systemctl status cron
 
-# ✅ Checking your username (Example for user "gael"):
-- Run 'whoami' in WSL to verify your username
-- */5 * * * * /home/gael/my-it-journey/scripts/monitor.sh
+## 🛠️ System Management (cron)
 
 # ▶️ Start cron
 - sudo systemctl start cron
 - sudo systemctl enable cron → Optional: auto-start on boot
-
 # ⏹️ Stop cron
 - sudo systemctl stop cron → If you want this program to stop
-
 # 📊 Check cron status
 - systemctl status cron
+💡 Note: Stopping cron won’t stop a currently running script it only prevents future runs.
 
 ## ⚠️ NOTES
 - Warnings like sudo: unable to resolve host are safe to ignore in WSL2.
 - First run creates logs/, alerts/, and diagnosis/ folders automatically.
+- Find your username with: 'whoami'
 
 ## 📁 Structure
 - `scripts/monitor.sh` → main monitoring logic  
