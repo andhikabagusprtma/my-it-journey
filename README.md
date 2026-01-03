@@ -24,12 +24,12 @@ Automated network monitoring system with:
 
 ## 🛠️ System Management (cron)
 
-# ▶️ Start cron
+== ▶️ Start cron
 - sudo systemctl start cron
 - sudo systemctl enable cron → Optional: auto-start on boot
-# ⏹️ Stop cron
+== ⏹️ Stop cron
 - sudo systemctl stop cron → If you want this program to stop
-# 📊 Check cron status
+== 📊 Check cron status
 - systemctl status cron
 💡 Note: Stopping cron won’t stop a currently running script it only prevents future runs.
 
