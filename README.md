@@ -7,31 +7,31 @@ Automated network monitoring system with:
 
 ## 🚀 Setup & Usage
 
-### Run manually
+### ▶️ Run manually
 1. git clone https://github.com/andhikabagusprtma/my-it-journey.git
 2. cd my-it-journey
 3. ls -la
 4. chmod +x scripts/*.sh (chmod +x scripts/monitor.sh)
 5. ./scripts/monitor.sh
 
-### Auto-Run with cron (every 5 minutes)
+### 🔄 Auto-Run with cron (every 5 minutes)
 1. crontab -e
 2. */5 * * * * /home/username/my-it-journey/scripts/monitor.sh
 3. chmod +x /home/username/my-it-journey/scripts/monitor.sh
 4. start cron
 5. check cron status
 
-# Checking your username (Example for user "gael"):
+# ✅ Checking your username (Example for user "gael"):
 - Run 'whoami' in WSL to verify your username
 - */5 * * * * /home/gael/my-it-journey/scripts/monitor.sh
 
-# Start cron (WSL2 only)
+# ▶️ Start cron (WSL2 only)
 - sudo systemctl start cron
 
-# Stop cron
+# ⏹️ Stop cron
 - sudo systemctl stop cron (if you want this program to stop)
 
-# Check cron status
+# 📊 Check cron status
 - systemctl status cron
 
 ## ⚠️ NOTES
