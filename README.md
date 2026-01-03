@@ -21,10 +21,10 @@ Automated network monitoring system with:
 */5 * * * * /home/gael/my-it-journey/scripts/monitor.sh
 
 # Start cron (WSL2 only)
-3. sudo service cron start 
+- sudo service cron start 
 
 # Stop cron
-4. sudo service cron stop (if you want this program to stop)
+- sudo service cron stop (if you want this program to stop)
 
 ## ⚠️ NOTES
 - Warnings like sudo: unable to resolve host are safe to ignore in WSL2.
