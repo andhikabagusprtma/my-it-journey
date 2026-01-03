@@ -11,11 +11,11 @@ Automated network monitoring system with:
 1. git clone https://github.com/andhikabagusprtma/my-it-journey.git
 2. cd my-it-journey
 3. ls
-  - alerts
-  - backups
-  - diagnosis
-  - logs
-  - scripts -> Select this
+  - `alerts`
+  - `backups`
+  - `diagnosis`
+  - `logs`
+  - `scripts` → Select this
 4. chmod +x scripts/*.sh
 5. ./scripts/monitor.sh
 
@@ -32,10 +32,10 @@ Automated network monitoring system with:
 
 # ▶️ Start cron
 - sudo systemctl start cron
-- sudo systemctl enable cron -> Optional: auto-start on boot
+- sudo systemctl enable cron → Optional: auto-start on boot
 
 # ⏹️ Stop cron
-- sudo systemctl stop cron -> If you want this program to stop
+- sudo systemctl stop cron → If you want this program to stop
 
 # 📊 Check cron status
 - systemctl status cron
